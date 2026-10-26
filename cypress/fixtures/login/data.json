@@ -1,0 +1,21 @@
+{
+    "userPassword": "secret_sauce",
+    "username":{
+        "standard_user": "standard_user",
+        "locked_out_user": "locked_out_user",
+        "problem_user": "problem_user",
+        "performance_glitch_user": "performance_glitch_user",
+        "error_user": "error_user",
+        "visual_user": "visual_user"
+    },
+    "validation":{
+        "emptyUsernameField":"Epic sadface: Username is required",
+        "emptyPasswordField":"Epic sadface: Password is required"
+    },
+    "messages":{
+        "wrongCredentials":"Epic sadface: Username and password do not match any user in this service",
+        "lockedUser":"Epic sadface: Sorry, this user has been locked out.",
+        "userNameRequired":"Epic sadface: Username is required",
+        "passwordRequired":"Epic sadface: Password is required"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "0":{
+        "name":"Sauce Labs Bike Light",
+        "desc":"A red light isn't the desired state in testing but it sure helps when riding your bike at night. Water-resistant with 3 lighting modes, 1 AAA battery included.",
+        "price":"$9.99",
+        "image":"/assets/bike-light-1200x1500-DxcZRFOA.jpg"
+    },
+    "1":{
+        "name":"Sauce Labs Bolt T-Shirt",
+        "desc":"Get your testing superhero on with the Sauce Labs bolt T-shirt. From American Apparel, 100% ringspun combed cotton, heather gray with red bolt.",
+        "price":"$15.99",
+        "image":"/assets/bolt-shirt-1200x1500-mR0ldpVS.jpg"
+    },
+    "4":{
+        "name":"Sauce Labs Backpack",
+        "desc":"carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.",
+        "price":"$29.99",
+        "image":"/assets/sauce-backpack-1200x1500-CjRW-Djj.jpg"
+    },
+    "5":{
+        "name":"Sauce Labs Fleece Jacket",
+        "desc":"It's not every day that you come across a midweight quarter-zip fleece jacket capable of handling everything from a relaxing day outdoors to a busy day at the office.",
+        "price":"$49.99",
+        "image":"/assets/sauce-pullover-1200x1500-BfbI-PSd.jpg"
+    }
+}
