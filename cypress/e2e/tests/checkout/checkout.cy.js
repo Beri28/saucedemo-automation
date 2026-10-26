@@ -1,22 +1,3 @@
-// verify user is on checkout step one
-// verify user can access page menu and view menu items
-// verify user can close menu after opening
-// verify menu item links are not dead links
-// verify user can fill checkout form
-// verify user can't proceed to next checkout step without filling all info on the form
-// verify filling the form with invalid info prevents user from proceeding to next step
-// verify validation or error message disappears as soon as user starts typing or updating form info
-// verify clicking "cancel" button takes user back to products page
-// verify clicking cart icon takes user back to cart page
-// Verify checkout page is scrollable(user scrollbar to scroll up and down, using mouse scroll wheel, roll it front and back)
-// verify user can proceed to checkout step two after filling checkout info
-// verify info shown on checkout step two is same info user filled in step one
-// verify clicking "cancel" button takes user to checkout step one
-// verify clicking the finish button takes user to next or final step
-// verify user can download order details as pdf
-// verify clicking "back home" button takes user to product page
-// verify un auth users are not able to access auth routes
-
 import { CommonActions } from "../../actions/CommonActions"
 import { CartPage } from "../../pages/Cart"
 import { CheckoutPage } from "../../pages/Checkout"

@@ -1,26 +1,3 @@
-// verify products exist or are visible on the page
-// OBSELETE-- Verify user can view a single product on details page
-    // - Click on any product, 
-// verify clicking on product name takes user to product details page
-// verify clicking on product image takes user to product details page
-// Verify products page is scrollable(user scrollbar to scroll up and down, using mouse scroll wheel, roll it front and back)
-// Verify product details page is scrollable( ""  )
-// verify user can view and hide filter list(clicking funnel icon, filter text, down caret)
-// verify caret orientation changes when filter lists becomes visible
-// Verify each filter can be applied to the products list()
-// verify user can access page menu and view menu items
-// verify user can close menu after opening
-// verify menu item links are not dead links
-// verify number of items in the cart is same as the number shown on the cart icon
-// verify cart always contain accurate number of items added to it
-// verify user can add a product to the cart 
-// verify adding a product to cart updates the products button text from "Add to cart" to "Remove"
-// verify user can add multiple products to the cart
-// verify user can remove a product from the cart
-// verify user can remove multiple products from the cart
-// verify clicking cart icon takes user to checkout page
-// verify refreshing the page doesn't clear the cart
-
 import { CommonActions } from "../../actions/CommonActions"
 import { LoginPage } from "../../pages/Login"
 import { ProductsPage } from "../../pages/Products"

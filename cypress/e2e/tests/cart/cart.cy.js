@@ -1,16 +1,3 @@
-// verify user is on cart page
-// verify refreshing the page doesn't clear the cart
-// verify clicking on "continue to shopping" takes user back to products page
-// verify clicking on "checkout" takes user back to checkout page
-// verify quantity for each product in the cart is 1
-// verify removing a product from cart updates ui and descrements cart items count
-// verify user can access page menu and view menu items
-// verify user can close menu after opening
-// verify menu item links are not dead links
-// verify number of items in the cart is same as the number shown on the cart icon
-// verify that for an empty cart, user is not able to proceed to checkout
-// Verify cart page is scrollable(user scrollbar to scroll up and down, using mouse scroll wheel, roll it front and back)
-
 import { CommonActions } from "../../actions/CommonActions"
 import { CartPage } from "../../pages/Cart"
 import { CheckoutPage } from "../../pages/Checkout"
